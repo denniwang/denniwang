@@ -12,8 +12,8 @@
 ## 💻 Tech Stack
 ```typescript
 const dennis = {
-  languages: ['TypeScript', 'Python', 'Java', 'C++'],
-  frontend: ['React', 'Next.js', 'Tailwind CSS'],
+  languages: ['TypeScript', 'Python', 'Java', 'Racket'],
+  frontend: ['React', 'Next.js', 'Tailwind', 'shadcn'],
   backend: ['Node.js', 'Express', 'NestJS', 'Flask'],
   databases: ['MongoDB', 'PostgreSQL', 'Supabase'],
   tools: ['Git', 'Docker', 'AWS', 'Vercel', 'Postman']
