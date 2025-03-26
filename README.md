@@ -1,46 +1,24 @@
-# 👋 Hi, I'm Dennis Wang
-
-### 🎓 CS + Business @ Northeastern University
-> Building meaningful products with clean code and business impact
+## 👋 Hi, I'm Dennis Wang,
+I'm a 2nd year CS + Business student at Northeastern University from Irvine, CA.
 
 ## 🚀 What I'm Up To
 - 💼 Engineering at **Atoma Media** - Building real-time stock analysis tools
-- 🌐 Leading Developer Experience at **Sandbox** - Making onboarding a breeze
-- 🏗️ Building **GraduateNU** - Helping students plan their academic journey
+- 🌐 Leading Developer Experience at **Sandbox** - Making onboarding a breeze for new developers
+- 🏗️ Building **GraduateNU** - Helping students plan their academic journey with flexible degree audits
 - 🌟 Working on indigenous language preservation at **DAILP**
-
 ## 💻 Tech Stack
-```typescript
-const dennis = {
-  languages: ['TypeScript', 'Python', 'Java', 'Racket'],
-  frontend: ['React', 'Next.js', 'Tailwind', 'shadcn'],
-  backend: ['Node.js', 'Express', 'NestJS', 'Flask'],
-  databases: ['MongoDB', 'PostgreSQL', 'Supabase'],
-  tools: ['Git', 'Docker', 'AWS', 'Vercel', 'Postman']
-}
-```
-### Languages
-[![Languages](https://skillicons.dev/icons?i=ts,js,py,java)](https://skillicons.dev)
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui)](https://skillicons.dev)
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,flask)](https://skillicons.dev)
-### Databases
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,supabase,prisma)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=py,java,nodejs,nestjs,express,flask,mongodb,postgres,supbase,prisma)](https://skillicons.dev)
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,docker,aws,vercel,postman,vim)](https://skillicons.dev)
 
 
-## 🏆 Recent Achievements
-- 🥇 HackHarvard 2024 Best Developer Tool - T-Error
-- 📈 Increased new developer productivity by 65% at Sandbox
-- 🚀 Serving 1000+ monthly users on GraduateNU
 
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/denniswang812)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denniswang812@gmail.com)
-
 ---
-
 <p align="center">Available for Summer/Fall 2025 Opportunities!</p>
