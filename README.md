@@ -20,7 +20,15 @@ const dennis = {
 }
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,java)](https://skillicons.dev)
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui)](https://skillicons.dev)
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,flask)](https://skillicons.dev)
+
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,supabase,prisma)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=git,docker,aws,vercel,postman,vim)](https://skillicons.dev)
 
 
 ## 🏆 Recent Achievements
