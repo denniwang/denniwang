@@ -19,15 +19,15 @@ const dennis = {
   tools: ['Git', 'Docker', 'AWS', 'Vercel', 'Postman']
 }
 ```
-
+### Languages
 [![Languages](https://skillicons.dev/icons?i=ts,js,py,java)](https://skillicons.dev)
-
+### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui)](https://skillicons.dev)
-
+### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,flask)](https://skillicons.dev)
-
+### Databases
 [![Databases](https://skillicons.dev/icons?i=mongodb,postgres,supabase,prisma)](https://skillicons.dev)
-
+### Tools
 [![Tools](https://skillicons.dev/icons?i=git,docker,aws,vercel,postman,vim)](https://skillicons.dev)
 
 
