@@ -20,6 +20,9 @@ const dennis = {
 }
 ```
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 ## 🏆 Recent Achievements
 - 🥇 HackHarvard 2024 Best Developer Tool - T-Error
 - 📈 Increased new developer productivity by 65% at Sandbox
