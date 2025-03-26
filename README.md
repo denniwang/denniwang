@@ -8,9 +8,9 @@ I'm a 2nd year CS + Business student at Northeastern University from Irvine, CA.
 - 🌟 Working on indigenous language preservation at **DAILP**
 ## 💻 Tech Stack
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui)](https://skillicons.dev)
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=py,java,nodejs,nestjs,express,flask,mongodb,postgres,supbase,prisma)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=py,java,nodejs,nestjs,express,flask,mongodb,postgres,supabase,prisma)](https://skillicons.dev)
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,docker,aws,vercel,postman,vim)](https://skillicons.dev)
 
